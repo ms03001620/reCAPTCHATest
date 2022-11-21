@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141597906958",
+    "project_id": "recaptchatest-368602",
+    "storage_bucket": "recaptchatest-368602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141597906958:android:c5e4f43be16dc48f78845f",
+        "android_client_info": {
+          "package_name": "com.mark.recaptchatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141597906958-0umk0bc00gro2g25srl6iv62a43mqgai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mark.recaptchatest",
+            "certificate_hash": "89335cbe6f2f1775e608c2120296ad98355ab0dd"
+          }
+        },
+        {
+          "client_id": "141597906958-0r4ppca26i8e6gdjki7hbmkjd4uiiha1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBnxGoXHq8FZ4260Zk6z3fWmI3ukVhcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141597906958-0r4ppca26i8e6gdjki7hbmkjd4uiiha1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
